@@ -1,6 +1,6 @@
 # TinyC Programming Language
 
-TinyC is a subset of the C programming language, designed to be a simple procedural language with features suitable for educational purposes. Its syntax closely resembles C, offering various features outlined below:
+TinyC is a subset of the C programming language, designed to be a simple procedural language. Its syntax closely resembles C, offering various features outlined below:
 
 ## Structure of TinyC
 
