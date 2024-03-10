@@ -1,1 +1,10 @@
+int main()
+{
+    int c;
+    int d;
+    c=10;
+    c=d;
+    print c;
+    print d;
+}
 
